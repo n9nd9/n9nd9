@@ -5,7 +5,7 @@ I`m an aspiring developer from russia!
 📄 **Name:** Andrey <br/>
 🌍 **Languages:** Russian, English
 
-💻 **Programming Languages:** C#, Java, Python, Lua(😈)
+💻 **Programming Languages:** C#, Java, Python, Lua(😈) <br/>
 ⌨ **IDE:** Visual Studio, Visual Studio Code
 
 📱 **Phone:** Samsung Galaxy S21
